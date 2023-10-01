@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629700046370",
+    "project_id": "bringin-eced3",
+    "storage_bucket": "bringin-eced3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629700046370:android:2777600b81a804db3c647b",
+        "android_client_info": {
+          "package_name": "com.bringin.io"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgy-t3-1CocVpLAHc7vhF9JPQBSploSz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

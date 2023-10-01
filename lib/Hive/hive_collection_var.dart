@@ -1,0 +1,4 @@
+
+
+var recentBox; // TO SAVE RECENT JOB SEARCH
+var recentBox2; // TO SAVE RECENT CANDIDATE SEARCH
